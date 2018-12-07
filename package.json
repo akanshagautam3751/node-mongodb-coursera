@@ -1,0 +1,25 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "Node Mongodb",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanshagautam3751/node-mongodb-coursera.git"
+  },
+  "author": "Akansha Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akanshagautam3751/node-mongodb-coursera/issues"
+  },
+  "homepage": "https://github.com/akanshagautam3751/node-mongodb-coursera#readme"
+}
